@@ -6,7 +6,7 @@ A simple batch script which relies on [ControlMyMonitor](https://www.nirsoft.net
 
 Out of the box, this script is setup to change the VCP Code 60 from 15 to 17 and vise versa.
 
-You can use the ControlMyMonitor utility to identify the required information needed to edit this script to use yourself. You need to find the following information.
+You can use the ControlMyMonitor utility to identify the required information needed to edit this script to use yourself. You need to find the following information:
 
 - Location of the ControlMyMonitor executable itself for **CMM**
 - Monitor String for **MONITOR_RIGHT**. (This can also be the model number of the monitor itself)
